@@ -1,0 +1,18 @@
+.square1{
+    height:20px;
+    width:20px;
+    float:left;
+    border:1px solid gray;
+    margin-left:5px;
+    margin-bottom:5px;
+    background-color: green;
+}
+.square2{
+    height:20px;
+    width:20px;
+    float:left;
+    border:1px solid gray;
+    margin-left:5px;
+    margin-bottom:5px;
+    background-color: red;
+}
